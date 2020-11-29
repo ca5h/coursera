@@ -1,2 +1,2 @@
-# coursera
-mooc at Coursera
+# Coursera Java-CDP
+My code for MOOC at Coursera: Concurrent, Distributed, Parallel Java
